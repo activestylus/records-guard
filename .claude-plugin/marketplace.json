@@ -1,0 +1,5 @@
+{
+  "name": "port-mods",
+  "owner": { "name": "Steven Garcia" },
+  "plugins": [{ "name": "records-guard", "source": "./" }]
+}

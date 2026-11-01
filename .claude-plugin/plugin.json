@@ -1,0 +1,5 @@
+{
+  "name": "records-guard",
+  "version": "0.2.0",
+  "description": "Refuses any session's attempt to edit, overwrite, move or delete a dated record. New records stay allowed."
+}
